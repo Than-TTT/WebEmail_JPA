@@ -17,7 +17,7 @@
       <property name="jakarta.persistence.jdbc.password" value="123456"/> -->
 
       <property name="jakarta.persistence.jdbc.driver" value="org.postgresql.Driver"/>
-      <property name="jakarta.persistence.jdbc.url" value="jdbc:postgresql://dpg-d3godl0gjchc739up3qg-a:5432/emaillist"/>
+      <property name="jakarta.persistence.jdbc.url" value="jdbc:postgresql://dpg-d3godl0gjchc739up3qg-a.singapore-postgres.render.com:5432/emaillist"/>
       <property name="jakarta.persistence.jdbc.user" value="emaillist_user"/>
       <property name="jakarta.persistence.jdbc.password" value="4PUb2ViQ8DEoF1qHWUPPHCdL76Dvg5Bv"/>
 
