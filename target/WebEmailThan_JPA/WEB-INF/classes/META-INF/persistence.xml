@@ -22,7 +22,7 @@
       <property name="jakarta.persistence.jdbc.password" value="4PUb2ViQ8DEoF1qHWUPPHCdL76Dvg5Bv"/>
 
       <!-- Hibernate properties -->
-      <property name="hibernate.dialect" value="org.hibernate.dialect.SQLServerDialect"/>
+      <property name="hibernate.dialect" value="org.hibernate.dialect.PostgreSQLDialect"/>
       <property name="hibernate.show_sql" value="true"/>
       <property name="hibernate.hbm2ddl.auto" value="update"/>
     </properties>
